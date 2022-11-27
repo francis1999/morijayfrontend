@@ -1,0 +1,5 @@
+#containers{height: 500px;width: 90vw;background-color: #f1f1f1;justify-content: space-around;display: flex;margin-top: 20px;padding: 10px;}
+.product-image{width: 400px;}
+.details-div{text-align: left;}
+.left-image{margin: 10px;}
+.seller-button{background-color: #1c4a20;text-align: center;color:white;cursor: pointer;padding: 5px;}
